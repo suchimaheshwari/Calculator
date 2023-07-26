@@ -1,2 +1,2 @@
 # Calculator
-designed using Javascript ,HTML 5, CSS 3
+designed using Javascript ,HTML5, CSS3
